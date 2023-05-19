@@ -1,11 +1,11 @@
 {
-  "name": "react-native-exit-tvos",
-  "version": "1.0.3",
-  "author": "Rohan Kumar Singh <rosingh3342@gmail.com>",
   "license": "MIT",
+  "version": "1.0.0",
+  "name": "@rohan3342/react-native-exit-tvos",
+  "author": "Rohan Kumar Singh <rosingh3342@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rohan3342/react-native-exit-tvos"
+    "url": "git+https://github.com/rohan3342/react-native-exit-tvos.git"
   },
   "description": "Simple exit module for react-native projects for tvOS",
   "keywords": [
@@ -20,5 +20,9 @@
   "peerDependencies": {
     "react-native": "^0.44.0"
   },
-  "nativePackage": true
+  "nativePackage": true,
+  "bugs": {
+    "url": "https://github.com/rohan3342/react-native-exit-tvos/issues"
+  },
+  "homepage": "https://github.com/rohan3342/react-native-exit-tvos#readme"
 }
