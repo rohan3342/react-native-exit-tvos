@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/rohan3342/react-native-exit-tvos"
   },
   "description": "Simple exit module for react-native projects for tvOS",
   "keywords": [
