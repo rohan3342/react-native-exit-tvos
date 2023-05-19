@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "version": "1.0.0",
-  "name": "@rohan3342/react-native-exit-tvos",
+  "name": "react-native-exit-tvos",
   "author": "Rohan Kumar Singh <rosingh3342@gmail.com>",
   "repository": {
     "type": "git",
