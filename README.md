@@ -1,5 +1,5 @@
 # react-native-exit-tvos
-Simple exit module for react-native projects for tvOS.  Call whenever you want to close out your app and go back to the homescreen.
+Simple exit module for react-native projects for tvOS.  Call whenever you want to close out your app and go back to the home screen.
 
 Installation
 ------------
@@ -36,7 +36,7 @@ License
 
 (The MIT License)
 
-Copyright (c) 2017 Rohan Kumar Singh &lt;rosingh3342@gmail.com&gt;
+Copyright (c) 2023 Rohan Kumar Singh &lt;rosingh3342@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -53,6 +53,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
